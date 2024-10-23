@@ -1,3 +1,8 @@
+#### Name: Sia
+ - Place: Singapore
+ - Bio:Computer Science student. Studying at NTU.
+ - GitHub: [Siabatra](https://github.com/siabatra)
+ - 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
